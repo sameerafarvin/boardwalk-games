@@ -62,6 +62,13 @@ h2 {
 #services .card {
     margin-bottom: 1.5rem;
 }
+/*game-library new game*/
+/* Game library cards */
+
+#new-games .card,
+#fav-games .card {
+    border: none;
+}
 /* Media queries */
 
 /* Medium devices (tablets, 768px and up) */
