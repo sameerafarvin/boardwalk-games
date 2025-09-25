@@ -27,6 +27,10 @@ h3 {
 .sub-heading-color {
     color: var(--highlight-color);
 }
+/*customize navbar*/
+#navbar {
+    background-color: var(--primary-color);
+}
 
 /* grid visualisation CSS for testing */
 
