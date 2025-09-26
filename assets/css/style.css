@@ -38,8 +38,9 @@ h2 {
     color: var(--highlight-color);
 }
 .section {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    /*margin-top: 2rem;
+    margin-bottom: 2rem;*/
+    padding-top: 4rem;
 }
 
 /* Buttons */
