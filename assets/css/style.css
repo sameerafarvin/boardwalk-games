@@ -15,6 +15,7 @@
 
 body {
     font-family: var(--primary-font);
+    padding-top: 57.15px;
 }
 
 h1,
@@ -94,9 +95,7 @@ h2 {
 #fav-games .card {
     border: none;
 }
-#reserve form button {
-    justify-items: left;
-}
+
 /* Footer / contact */
 
 #contact {
